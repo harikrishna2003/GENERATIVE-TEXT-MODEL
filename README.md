@@ -4,8 +4,6 @@ A Python-based project demonstrating two approaches to text generation:
 1. **GPT-2** (Transformer-based) for high-quality, context-aware text.  
 2. **LSTM** (RNN-based) for simpler, sequential text prediction.  
 
-![Demo](https://via.placeholder.com/600x400?text=GPT-2+vs+LSTM+Text+Generation) *(Replace with example outputs)*
-
 ## Features
 - **GPT-2 Implementation**:
   - Loads pre-trained `gpt2` from Hugging Face Transformers.
