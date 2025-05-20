@@ -1,3 +1,12 @@
+COMPANY: CODETECH IT SOLUTIONS
+NAME: HARIKRISHNA PILLAI
+INTERN ID: C0DF49
+DOMAIN: ARTIFICIAL INTELLIGENCE
+DURATION: 4 WEEKS
+MENTOR: NEELA SANTOSH
+
+
+
 # 📖 Text Generation with GPT-2 and LSTM
 
 A Python-based project demonstrating two approaches to text generation:  
